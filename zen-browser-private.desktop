@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Zen Browser Private Window
+GenericName=Web Browser
+Comment=Browse the Web
+Exec=/opt/zen-browser-bin/zen-bin --private-window %U
+Icon=zen-white-private
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=zen-alpha-private
